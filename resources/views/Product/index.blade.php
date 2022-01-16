@@ -19,7 +19,7 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th></th>
+                            <th>ลำดับ</th>
                             <th>รูป</th>
                             <th>ชื่้อ</th>
                             <th>ราคา</th>
